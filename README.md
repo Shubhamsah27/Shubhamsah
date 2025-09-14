@@ -1,24 +1,60 @@
 
 <br><br>
 <b>▶️ Introduction:</b> <br> 
-➖ I'm a passionate 3rd-year undergraduate student pursuing BTech in Computer Science Engineering at IIIT Bhopal, holding a CGPA of 9.86. With a deep curiosity for understanding real-world applications of technology, I have consistently excelled academically and practically, ranking 1st in my batch. <br> 
+➖ I’m Shubham Sah, a 3rd-year B.Tech student in Computer Science and Engineering at IIIT Bhopal with a CGPA of 7.49. I am passionate about applying my knowledge of software engineering, AI/ML, and fullstack development to solve real-world problems. My academic journey has been supported by consistent performance (Class 10th – 95.2%, Class 12th – 82.7%), and I am continuously exploring new domains in technology. <br> 
 <br> 
-<b>▶️ Professional Experience:</b> <br> 
-➖ I have experience working as a Generative AI Intern at Constituents AI, where I designed and deployed advanced AI models, including Diffusion and LLMs. <br> 
-➖ As a Programming Engineer Intern at OGES Solutions Pvt Ltd, I implemented Reinforcement Learning and optimized Genetic/ACO algorithms, enhancing the performance of route optimization software. <br> 
-➖ I was Assistant AI/ML Developer at Google Developer Student Club for the session (2023-2024) <br>
-➖ As a Teaching Assistant for Fundamentals of Computer Programming (FOCP) at IIIT Bhopal, I guided students through core programming concepts and assisted in enhancing their coding skills. <br>
-<br> 
-<b>▶️ Skills:</b> <br> 
-➖ I am a versatile developer with experience across multiple domains, including AI/ML, Fullstack Web Development, Backend Development, and Software Engineering. I have strong problem-solving skills and a deep understanding of DSA and various mathematical concepts, which I apply to tackle complex real-world challenges. <br> 
-➖ Proficient in Python, C/C++, SQL, Flask, FastAPI, and more, I have worked on projects involving Reinforcement Learning, sentiment analysis, and web development. My dedication to problem-solving has led me to build innovative solutions, such as a Q-Learning trading bot and a voice sentiment analysis system using BERT. <br> 
-<br> 
-<b>▶️ Inspiration:</b> <br> 
-➖ Driven by my passion for understanding the intricacies of technology and contributing to impactful projects, I am actively seeking internship opportunities in software development and AI/ML fields. My goal is to apply my skills to real-world problems, continuously learn, and grow as a developer. <br> 
-<br>
 
-📩 Contact me at modipunya@gmail.com <br>
-📞 Phone Number +91 9971127811
+<b>▶️ Professional Experience:</b> <br> 
+➖ **Generative AI Intern, Constituents AI** — Designed and deployed advanced AI models, including Diffusion models and LLMs. <br> 
+➖ **Programming Engineer Intern, OGES Solutions Pvt Ltd** — Implemented Reinforcement Learning and optimized Genetic/ACO algorithms to enhance the performance of route optimization software. <br> 
+➖ **Assistant AI/ML Developer, Google Developer Student Club (2023–24)** — Contributed to ML projects and mentored peers. <br> 
+➖ **Teaching Assistant, IIIT Bhopal** — Assisted students in Fundamentals of Computer Programming (FOCP) and guided them in building strong coding skills. <br>
+<br> 
+
+<b>▶️ Projects:</b> <br> 
+➖ **Obstacle-Avoiding Bluetooth-Controlled Robotic Car**  
+*Arduino, AFMotor, Servo, Ultrasonic Sensor, C++*  
+• Built an Arduino-based robotic car with Bluetooth control and 95% accurate obstacle avoidance.  
+• Programmed real-time path planning using ultrasonic sensors and servo scanning.  
+• Published research paper in **IEEE SCEECS 2024, MANIT Bhopal**.  
+
+➖ **MineOps Dashboard – Full-Stack Operations Management Tool**  
+*React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Framer Motion, ShadCN UI*  
+• Developed a dashboard to streamline mining operations, improving data analysis efficiency by 35%.  
+• Built 15+ REST APIs with Node.js/Express, reducing response latency by 25%.  
+• Deployed on Vercel/Render/Railway achieving 99% uptime.  
+
+➖ **Employee Management System (CLI in C)**  
+*C, File I/O, Structs, Arrays*  
+• Built a persistent CLI system to manage 500+ employee records with O(1) access time.  
+• Reduced manual record-keeping effort by 70% through automated operations. <br> 
+<br> 
+
+<b>▶️ Skills/Expertise:</b> <br> 
+➖ **Languages:** C, C++, Python, HTML, SQL  
+➖ **Core Areas:** Data Structures & Algorithms, Machine Learning, NLP, Deep Learning, Software Development  
+➖ **Frameworks:** React, Node.js, Express, Tailwind CSS  
+➖ **Developer Tools:** GitHub, VS Code, Google Colab, Anaconda, Arduino, Figma, LaTeX  
+➖ **Other Tools:** Excel, Power BI <br> 
+<br> 
+
+<b>▶️ Achievements & Certifications:</b> <br> 
+➖ Solved **450+ DSA problems** on LeetCode, Codeforces, and CodeChef (3★ Coder). <br>
+➖ Selected among the **Top 15 coders in first year** at IIIT Bhopal. <br>
+➖ Contributed to open-source projects in **GirlScript Summer of Code (GSSoC)**. <br>
+➖ Selected as an **ATF Stage 2 Candidate** for career acceleration. <br>
+➖ Built CLI scripts in Linux to automate system tasks. <br>
+➖ **Research Publication:** Published a paper on Arduino-based robotic car (IEEE SCEECS 2024). <br>
+<br> 
+
+<b>▶️ Inspiration:</b> <br> 
+➖ My goal is to merge academic knowledge with practical innovation. I aspire to work on impactful projects in **AI/ML, Software Development, and Fullstack Engineering**, while continuously learning and contributing to the tech community. <br> 
+<br> 
+
+📩 **Email:** shubhamsah869@gmail.com <br>
+📞 **Phone:** +91 9234539335 <br>
+🔗 **LinkedIn:** [Your LinkedIn Profile] <br>
+💻 **GitHub:** [Your GitHub Profile]  
 <br><br><br>
 
 
